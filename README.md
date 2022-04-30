@@ -1,14 +1,17 @@
-# ABEERA
-apt update
-apt upgrade
-apt install git
-apt install python
-apt install python2
-pip2 install requests
-pip2 install mechanize
-pip2 install bs4
-git clone https://github.com/Red-Mafia/ABEERA.git
-ls
-cd ABEERA
-ls
-python2 RK.py
+# Tool Name
+FMBH FILE MAKING BY HANNAN :)
+
+# Owner
+Abdul Hannan Ansari
+
+# Note
+Use Kiwi Browser or Business Token
+
+# Installation
+* apt update && apt upgrade
+* pkg install python2
+* pkg install git
+* pip2 install mechanize requests bs4 futures
+* git clone https://github.com/Hannan-404/File8
+* cd File8
+* python2 FMBH.py
